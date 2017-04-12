@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "396285936544",
+    "firebase_url": "https://simplecalculator-c6943.firebaseio.com",
+    "project_id": "simplecalculator-c6943",
+    "storage_bucket": "simplecalculator-c6943.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396285936544:android:52db99c9939bbec1",
+        "android_client_info": {
+          "package_name": "com.zcj.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396285936544-o5bj4kq09im250jm7536psff71dgtjhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQnxFeCYxZeW37KlQAEvTJLRTa4f3yOa4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4264047892026990/3193270065</string>
+    <string name="content_not_be_blank">内容不能为空</string>
+    <string name="can_not_have_characters">不能有字符</string>
+    <string name="divisor_can_not_be_zero">除数不能为零</string>
+    <string name="btn_more">更多</string>
+    <string name="btn_no">否</string>
+    <string name="btn_yes">是</string>
+    <string name="is_exit">是否退出？</string>
+</resources>

@@ -3,4 +3,22 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <!-- 浅黑色 -->
+    <color name="black_l">#AA000000</color>
+    <color name="black_ll">#88000000</color>
+    <color name="black_33">#33000000</color>
+    <!-- 透明 -->
+    <color name="transparent">#00000000</color>
+    <!-- 浅灰色 -->
+    <color name="grey_l">#C0C0C0</color>
+    <color name="grey_ll">#E6E6E6</color>
+    <color name="grey_lll">#ededed</color>
+    <color name="grey_99">#999999</color>
+
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+
+    <color name="blue_l">#90CAF9</color>
+    <color name="green_bg">#8BC34A</color>
+    <color name="green_bg_l">#C5E1A5</color>
 </resources>
